@@ -4,7 +4,7 @@ import { Component } from 'react';
 import Counter from './Counter';
 
 class App extends Component {
-
+  //hi mandy
   render() {
     return (
       <div className="App">
